@@ -1,4 +1,4 @@
-.TH man 3 "21 August 2023" "Alx Project" "_PRINTF"
+.TH man 3 "22 August 2023" "Alx Project" "_PRINTF"
 .SH NAME
 .B _printf
 - formatted output conversion
